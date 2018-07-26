@@ -2,16 +2,16 @@
 
 def highest_student_gpa
   #SELECT MAX(column_name) FROM table_name;
-  "SELECT MAX(gpa) FROM students"
+  "SELECT MAX(gpa) FROM students;"
 end
 
 def lowest_student_gpa
-  "SELECT MIN(gpa) FROM students"
+  "SELECT MIN(gpa) FROM students;"
 end
 
 def average_student_gpa
   #SELECT AVG(column_name) FROM table_name;
-  "SELECT AVG(gpa) FROM students"
+  "SELECT AVG(gpa) FROM students;"
 end
 
 def total_tardies_for_all_students
