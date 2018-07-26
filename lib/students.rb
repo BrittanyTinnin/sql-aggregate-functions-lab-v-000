@@ -2,7 +2,7 @@
 
 def highest_student_gpa
   #SELECT MAX(column_name) FROM table_name;
-  "SELECT MAX(gpa) FROM database"
+  "SELECT MAX(gpa) FROM memory"
 end
 
 def lowest_student_gpa
